@@ -7,7 +7,7 @@ This blog is about GenAI, LLMs, machine learning, Python, and tech education. I 
 
 # About Me
 
-I'm **Raja CSP Raman** — an engineer, educator, author, and founder.
+I'm **Ashwin s** — an engineer, educator, author, and founder.
 
 From a rural school in Odiapatti to a career spanning multiple continents, my journey has been driven by curiosity and a deep commitment to giving back. I'm an alumnus of **Thiagarajar College of Engineering** and started my career working alongside IIT Madras professors at **NMSWorks** (a parent company of Zoho).
 
@@ -17,7 +17,7 @@ Throughout my career, I've dedicated my weekends to mentoring students from rura
 
 ## Current Work
 
-I'm the founder of **[Kactii](https://app.kactii.com/c/raja)** — a GenAI Agent Marketplace. I also operate **Kactii Academy** from Toronto, focusing on nurturing both Canadians and South Indians in the latest GenAI technology stack. Previously, I led **Aracor** as Head of AI & Engineering, where I managed an 11-member team and initiated the AI roadmap for AracorAI.
+I'm the founder of **[Kactii](https://ashwinsuresh-ngr.github.io/)** — a GenAI Agent Marketplace. I also operate **Kactii Academy** from Toronto, focusing on nurturing both Canadians and South Indians in the latest GenAI technology stack. Previously, I led **Aracor** as Head of AI & Engineering, where I managed an 11-member team and initiated the AI roadmap for AracorAI.
 
 I'm also the founder of **Featurepreneur**, an invitation-only Slack community focused on student development, supporting Canadian SMEs and startups on their micro features.
 
@@ -31,11 +31,10 @@ My ambitious 10-year mission is to establish **Tamil Nadu as the GenAI Hub of In
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/raja-csp-raman/)
-- [GitHub](https://github.com/rajacsp)
-- [PyPI](https://pypi.org/user/rajacsp/)
-- [Google Scholar](https://scholar.google.com/citations?user=rajacsp)
-- [Kactii](https://app.kactii.com/c/raja)
+- [LinkedIn](https://www.linkedin.com/in/ashwin-s-214a87302/)
+- [GitHub](https://github.com/ashwinsuresh-ngr)
+- [PyPI](https://ashwinsuresh-ngr.github.io/pynotes//)
+- [Articlevil](https://articlevil.substack.com/)
 
 ## Outside of Tech
 
