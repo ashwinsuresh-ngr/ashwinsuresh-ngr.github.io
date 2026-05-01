@@ -10,6 +10,11 @@ THEME = 'theme'
 # Enable LESS compilation
 USE_LESS = True
 
+# Force light theme
+THEME_COLOR = 'light'
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = False
+THEME_COLOR_ENABLE_USER_OVERRIDE = False
+
 # Disable URL hash fragments in article links
 DISABLE_URL_HASH = True
 
