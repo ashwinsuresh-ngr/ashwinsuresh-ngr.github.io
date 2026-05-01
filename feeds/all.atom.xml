@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ashwin</title><link href="https://ashwinsuresh-ngr.github.io/" rel="alternate"/><link href="https://ashwinsuresh-ngr.github.io/feeds/all.atom.xml" rel="self"/><id>https://ashwinsuresh-ngr.github.io/</id><updated>2026-05-01T00:00:00+05:30</updated><entry><title>Spec Kit</title><link href="https://ashwinsuresh-ngr.github.io/building-with-spec-kit-ai-workflow.html" rel="alternate"/><published>2026-05-01T00:00:00+05:30</published><updated>2026-05-01T00:00:00+05:30</updated><author><name>Ashwin S</name></author><id>tag:ashwinsuresh-ngr.github.io,2026-05-01:/building-with-spec-kit-ai-workflow.html</id><summary type="html">&lt;hr&gt;
+&lt;h3&gt;Building with Spec Kit: A Smarter Way to Work with AI&lt;/h3&gt;
+&lt;p&gt;When I first started using AI to build projects, I expected it to just work. I would type something like “build a notes app,” and wait for clean, usable code.&lt;/p&gt;
+&lt;p&gt;But instead, I got confusing outputs, missing features, and …&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;h3&gt;Building with Spec Kit: A Smarter Way to Work with AI&lt;/h3&gt;
+&lt;p&gt;When I first started using AI to build projects, I expected it to just work. I would type something like “build a notes app,” and wait for clean, usable code.&lt;/p&gt;
+&lt;p&gt;But instead, I got confusing outputs, missing features, and inconsistent results.&lt;/p&gt;
+&lt;p&gt;That’s when I discovered Spec Kit—a simple but powerful way to guide AI properly. It completely changed how I build with AI.&lt;/p&gt;
+&lt;p&gt;This blog is about that shift—what Spec Kit is, how it works, and why it makes AI much more reliable.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;What is Spec Kit?&lt;/h3&gt;
+&lt;p&gt;Spec Kit is a structured workflow that helps you plan before building with AI.&lt;/p&gt;
+&lt;p&gt;Instead of giving one vague instruction, you break your idea into clear steps so the AI can understand exactly what you want.&lt;/p&gt;
+&lt;p&gt;In simple terms, Spec Kit helps you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Think clearly&lt;/li&gt;
+&lt;li&gt;Define your idea&lt;/li&gt;
+&lt;li&gt;Guide AI step by step&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It turns AI from something unpredictable into something much more controlled and useful.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Why I Started Using Spec Kit&lt;/h3&gt;
+&lt;p&gt;At first, I treated AI like a shortcut. I thought it could build everything in one go.&lt;/p&gt;
+&lt;p&gt;But I quickly realized:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My instructions were too vague&lt;/li&gt;
+&lt;li&gt;AI had to guess what I meant&lt;/li&gt;
+&lt;li&gt;The results were inconsistent&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What I needed was not a better AI—but a better way to communicate.&lt;/p&gt;
+&lt;p&gt;Spec Kit gave me that structure.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;How Spec Kit Works (Simple Breakdown)&lt;/h3&gt;
+&lt;p&gt;Spec Kit follows a clear process:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Specify — define what you want to build&lt;/li&gt;
+&lt;li&gt;Clarify — remove confusion by answering questions&lt;/li&gt;
+&lt;li&gt;Plan — decide how the system will work&lt;/li&gt;
+&lt;li&gt;Tasks — break everything into small steps&lt;/li&gt;
+&lt;li&gt;Analyze — review and improve the plan&lt;/li&gt;
+&lt;li&gt;Implement — build step by step&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Each step adds clarity, making the final output much better.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;A Simple Example&lt;/h3&gt;
+&lt;p&gt;Before using Spec Kit, I would say:&lt;/p&gt;
+&lt;p&gt;“Build a calculator”&lt;/p&gt;
+&lt;p&gt;That’s too vague.&lt;/p&gt;
+&lt;p&gt;With Spec Kit, I would say:&lt;/p&gt;
+&lt;p&gt;“Build a calculator app that can add and subtract numbers, with a simple interface.”&lt;/p&gt;
+&lt;p&gt;Now the AI understands clearly.&lt;/p&gt;
+&lt;p&gt;It’s similar to everyday life. If you tell someone “make food,” they’ll be confused. But if you give specific instructions, the result improves.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;What Changed for Me&lt;/h3&gt;
+&lt;p&gt;The biggest change was not technical—it was mental.&lt;/p&gt;
+&lt;p&gt;Instead of thinking:&lt;/p&gt;
+&lt;p&gt;“AI will build everything for me”&lt;/p&gt;
+&lt;p&gt;I started thinking:&lt;/p&gt;
+&lt;p&gt;“I will guide the AI step by step”&lt;/p&gt;
+&lt;p&gt;That small shift made a huge difference.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Features of This Approach&lt;/h3&gt;
+&lt;p&gt;Using Spec Kit, I noticed several improvements:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Clearer Outputs
+   AI responses became more accurate and structured&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fewer Errors
+   Less guessing means fewer mistakes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Better Control
+   I could adjust each step instead of restarting everything&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Scalable Thinking
+   It works for small projects and large systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3&gt;Challenges I Faced&lt;/h3&gt;
+&lt;p&gt;Like any new approach, there were some challenges:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing detailed specifications takes time&lt;/li&gt;
+&lt;li&gt;It feels slower at the beginning&lt;/li&gt;
+&lt;li&gt;You need to think more before building&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But over time, it actually saves more time by reducing errors and rework.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Lessons Learned&lt;/h3&gt;
+&lt;p&gt;Here are a few things I learned while using Spec Kit:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clarity is more important than speed&lt;/li&gt;
+&lt;li&gt;Small steps are easier than big instructions&lt;/li&gt;
+&lt;li&gt;You don’t need a perfect plan—just a clear one&lt;/li&gt;
+&lt;li&gt;Iteration is part of the process&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;When to Use Spec Kit&lt;/h3&gt;
+&lt;p&gt;Spec Kit is especially useful when:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You are building something from scratch&lt;/li&gt;
+&lt;li&gt;Your project has multiple features&lt;/li&gt;
+&lt;li&gt;You want consistent and clean results&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For very simple tasks, you might not need it. But for anything slightly complex, it becomes very helpful.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;The Bigger Idea&lt;/h3&gt;
+&lt;p&gt;Spec Kit is not just a tool—it’s a way of thinking.&lt;/p&gt;
+&lt;p&gt;It teaches you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Break problems into smaller parts&lt;/li&gt;
+&lt;li&gt;Communicate clearly&lt;/li&gt;
+&lt;li&gt;Work step by step&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are useful skills beyond just AI development.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Final Thoughts&lt;/h3&gt;
+&lt;p&gt;Using Spec Kit changed how I work with AI.&lt;/p&gt;
+&lt;p&gt;It showed me that the quality of output depends on the clarity of input.&lt;/p&gt;
+&lt;p&gt;If you're struggling with inconsistent AI results, don’t rush into more tools. Start by improving how you define your ideas.&lt;/p&gt;
+&lt;p&gt;Start small, practice the process, and gradually build confidence.&lt;/p&gt;
+&lt;p&gt;AI becomes much more powerful when you guide it properly.&lt;/p&gt;
+&lt;p&gt;Thanks for reading. If this helped you understand Spec Kit better, try applying it to a small project and see the difference yourself.&lt;/p&gt;</content><category term="GenAI"/><category term="spec-kit"/><category term="ai"/><category term="development"/><category term="workflow"/></entry><entry><title>Playlist Curator MCP Server</title><link href="https://ashwinsuresh-ngr.github.io/building-playlist-curator-mcp-server.html" rel="alternate"/><published>2026-04-22T00:00:00+05:30</published><updated>2026-04-22T00:00:00+05:30</updated><author><name>Ashwin S</name></author><id>tag:ashwinsuresh-ngr.github.io,2026-04-22:/building-playlist-curator-mcp-server.html</id><summary type="html">&lt;p&gt;Building My Playlist Curator MCP Server with YouTube Music &amp;amp; Claude AI&lt;/p&gt;
+&lt;p&gt;When I first thought about music discovery, I was tired of switching tabs, searching manually, and letting algorithms decide what I wanted to hear. I wanted something simpler — just describe my mood and get music instantly. That's when I …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Building My Playlist Curator MCP Server with YouTube Music &amp;amp; Claude AI&lt;/p&gt;
+&lt;p&gt;When I first thought about music discovery, I was tired of switching tabs, searching manually, and letting algorithms decide what I wanted to hear. I wanted something simpler — just describe my mood and get music instantly. That's when I started building the Playlist Curator MCP Server, a project that connects Claude AI, YouTube Music, and Kiro IDE into one seamless experience.
+This blog is a reflection of that journey — what MCP is, how I built the server, and why it completely changed the way I think about AI tools.&lt;/p&gt;
+&lt;p&gt;What is an MCP Server?&lt;/p&gt;
+&lt;p&gt;MCP stands for Model Context Protocol — an open standard that lets AI assistants like Claude connect to external tools and services. Instead of Claude just generating text, MCP gives it hands to reach out and interact with the real world.
+In simple terms, MCP lets you build tools where AI doesn't just "talk" — it searches, creates, and takes actions on your behalf.
+Why I Built This&lt;/p&gt;
+&lt;p&gt;Traditional music discovery is passive. You open Spotify or YouTube Music, scroll through suggestions, and hope the algorithm understands you. But I wanted something different:
+A tool that understands natural language mood descriptions
+Music search that gets context, not just keywords
+Automatic playlist creation from a single sentence
+A personal music assistant that lives inside my IDE
+MCP made all of this possible.
+How I Built It&lt;/p&gt;
+&lt;p&gt;Instead of relying on a paid API, I combined free tools into a powerful stack:&lt;/p&gt;
+&lt;p&gt;IDE: Kiro (AWS) for spec-driven development
+MCP SDK: mcp (Python) to expose tools to Claude
+Music API: ytmusicapi for YouTube Music access
+Mood Engine: Claude AI to convert moods into search keywords
+Language: Python 3.11
+Auth: Browser cookie-based authentication
+This combination kept the entire project free, fast, and completely personal.
+The Magic: Turning Mood into Music
+Here's where Claude truly shines.
+Instead of a fixed mood-to-keyword dictionary, I used Claude itself as the recommendation engine. When you type a mood description, Claude converts it into smart YouTube Music search keywords.
+So instead of searching for exact genres, you can say:
+"Music that feels like a rainy Sunday in a café"
+And Claude understands the context, not just the words — returning tracks that actually match the vibe.
+The 5 MCP Tools I Built
+The server exposes five tools that Claude can call:&lt;/p&gt;
+&lt;p&gt;search_by_mood&lt;/p&gt;
+&lt;p&gt;Takes a natural language mood description and returns matching tracks with title, artist, thumbnail, and video ID.
+get_mood_playlist
+Fetches pre-built YouTube Music mood and genre playlists directly.
+get_recommendations
+Given a seed track, returns similar songs using ytmusicapi's watch playlist.
+create_playlist
+Creates a real playlist in your YouTube Music account with a given name and tracks.
+add_tracks
+Adds new tracks to an existing playlist in your account.&lt;/p&gt;
+&lt;p&gt;Using It Inside Kiro
+One of my favorite moments was testing this inside Kiro for the first time. You just chat naturally:
+"Find me chill late night music"
+"Save these as a playlist called Night Mode"
+"Give me something similar to this track"
+And the MCP server handles everything behind the scenes — searching, creating, saving — while Claude does the natural language understanding on top.&lt;/p&gt;
+&lt;p&gt;Challenges I Faced&lt;/p&gt;
+&lt;p&gt;It wasn't all smooth sailing. Some real challenges included:
+Spotify dropped free API access — now requires Premium and limits test users to 5, which pushed me toward YouTube Music
+Cookie format bug — Chrome exports cookies using -b flag but ytmusicapi expects -H 'cookie: ...' which caused a confusing error
+Claude API vs subscription — found out that a Claude.ai Pro subscription doesn't include API access, they are completely separate products
+Gzip-encoded request body — the copied cURL had binary compressed data that looked alarming but turned out to be harmless&lt;/p&gt;
+&lt;p&gt;Lessons Learned&lt;/p&gt;
+&lt;p&gt;If you're planning something similar, here's my advice:
+Start with the spec files before writing any code
+Pick free APIs whenever possible — ytmusicapi proved better than Spotify for this use case
+Use Claude for the intelligent parts, not just as a chatbot
+Keep authentication simple — browser cookies are powerful and free
+Kiro's spec-driven workflow saves enormous time on boilerplate&lt;/p&gt;
+&lt;p&gt;The Future of MCP Tools&lt;/p&gt;
+&lt;p&gt;MCP servers are more than developer toys — they are the future of how AI integrates with real workflows.
+With tools like ytmusicapi and the MCP protocol, we can build assistants that:
+Understand personal context deeply
+Take real actions on your behalf
+Work inside the tools you already use every day
+This is just the beginning.&lt;/p&gt;
+&lt;p&gt;Final Thoughts&lt;/p&gt;
+&lt;p&gt;Building the Playlist Curator MCP Server was more than a technical project — it was a shift in how I think about AI tools.
+It made me realize that AI doesn't have to live in a separate tab or app. It can live right inside your IDE, understand your mood, and build something real for you in seconds.
+If you're thinking about building your own MCP server, my advice is simple:
+Start with one tool, keep it free, and let the idea grow naturally.
+Thanks for reading! If you enjoyed this, feel free to explore the project on GitHub or try building your own MCP server — it's easier than you think.&lt;/p&gt;</content><category term="MCP"/><category term="mcp"/><category term="python"/><category term="ytmusicapi"/><category term="kiro"/><category term="genai"/></entry><entry><title>Langchain</title><link href="https://ashwinsuresh-ngr.github.io/building-personal-blog-with-langchain.html" rel="alternate"/><published>2026-04-16T00:00:00+05:30</published><updated>2026-04-16T00:00:00+05:30</updated><author><name>Ashwin S</name></author><id>tag:ashwinsuresh-ngr.github.io,2026-04-16:/building-personal-blog-with-langchain.html</id><summary type="html">&lt;p&gt;Building My Personal Blog with LangChain: A Practical Journey into AI-Powered Content&lt;/p&gt;
+&lt;p&gt;When I first decided to build a personal blog, I didn’t want just another static website. I wanted something smarter—something that could interact, assist, and evolve with readers. That’s when I discovered LangChain, a powerful …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Building My Personal Blog with LangChain: A Practical Journey into AI-Powered Content&lt;/p&gt;
+&lt;p&gt;When I first decided to build a personal blog, I didn’t want just another static website. I wanted something smarter—something that could interact, assist, and evolve with readers. That’s when I discovered LangChain, a powerful framework that bridges large language models (LLMs) with real-world applications.&lt;/p&gt;
+&lt;p&gt;This blog is a reflection of that journey—what LangChain is, how I used it, and why it completely changed the way I think about content.&lt;/p&gt;
+&lt;p&gt;What is LangChain?&lt;/p&gt;
+&lt;p&gt;LangChain is a framework designed to help developers build applications powered by large language models like GPT. Instead of just generating text, it allows you to connect AI with external data, tools, and workflows.&lt;/p&gt;
+&lt;p&gt;In simple terms, LangChain lets you build apps where AI doesn’t just “talk”—it thinks, searches, remembers, and responds intelligently.&lt;/p&gt;
+&lt;p&gt;Why I Chose LangChain for My Blog&lt;/p&gt;
+&lt;p&gt;Traditional blogs are static. Readers come, read, and leave. But I wanted:&lt;/p&gt;
+&lt;p&gt;A blog that answers reader questions
+Smart search that understands meaning, not just keywords
+Automatic summaries for long articles
+A personal AI assistant trained on my content&lt;/p&gt;
+&lt;p&gt;LangChain made all of this possible.&lt;/p&gt;
+&lt;p&gt;How I Built My AI-Powered Blog&lt;/p&gt;
+&lt;p&gt;Instead of relying only on LangChain, I combined it with a modern web stack:&lt;/p&gt;
+&lt;p&gt;Frontend: A clean interface using React / Next.js
+Backend: FastAPI to handle API requests
+AI Layer: LangChain with OpenAI models
+Database: Vector store (Chroma) for semantic search&lt;/p&gt;
+&lt;p&gt;This combination allowed me to keep my blog fast, scalable, and intelligent.&lt;/p&gt;
+&lt;p&gt;The Magic: Turning Blog Content into Intelligence&lt;/p&gt;
+&lt;p&gt;Here’s where LangChain truly shines.&lt;/p&gt;
+&lt;p&gt;I took all my blog posts and converted them into embeddings (numerical representations of meaning). These embeddings are stored in a vector database.&lt;/p&gt;
+&lt;p&gt;So instead of searching for exact words, users can ask:&lt;/p&gt;
+&lt;p&gt;“What have you written about productivity?”&lt;/p&gt;
+&lt;p&gt;And the system understands context, not just keywords.&lt;/p&gt;
+&lt;p&gt;Adding a Chatbot to My Blog&lt;/p&gt;
+&lt;p&gt;One of my favorite features is the built-in chatbot.&lt;/p&gt;
+&lt;p&gt;Readers can ask questions like:&lt;/p&gt;
+&lt;p&gt;“Summarize this article”
+“Explain this topic simply”
+“What should I read next?”&lt;/p&gt;
+&lt;p&gt;And the AI responds based only on my blog content. It’s like turning my blog into a conversation.&lt;/p&gt;
+&lt;p&gt;Features I Implemented&lt;/p&gt;
+&lt;p&gt;Here are some of the most exciting features I added:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;AI-Powered Search&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Search works based on meaning, not exact matches.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Blog Assistant Chatbot&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A chatbot trained on all my posts.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Auto Summaries&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Each article includes a quick TL;DR generated by AI.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Content Generator&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I can generate drafts, titles, and outlines instantly.&lt;/p&gt;
+&lt;p&gt;Challenges I Faced&lt;/p&gt;
+&lt;p&gt;It wasn’t all smooth sailing. Some real challenges included:&lt;/p&gt;
+&lt;p&gt;Managing API costs
+Handling latency in AI responses
+Structuring clean and relevant data
+Avoiding hallucinations in responses&lt;/p&gt;
+&lt;p&gt;But solving these made the project even more rewarding.&lt;/p&gt;
+&lt;p&gt;Lessons Learned&lt;/p&gt;
+&lt;p&gt;If you're planning something similar, here’s my advice:&lt;/p&gt;
+&lt;p&gt;Don’t overcomplicate your first version
+Focus on one AI feature first (like search or chatbot)
+Keep your data clean and structured
+Monitor usage and costs carefully
+ The Future of Blogging&lt;/p&gt;
+&lt;p&gt;Blogs are no longer just static pages—they can become intelligent systems.&lt;/p&gt;
+&lt;p&gt;With tools like LangChain, we can build blogs that:&lt;/p&gt;
+&lt;p&gt;Understand readers
+Adapt content dynamically
+Provide personalized experiences&lt;/p&gt;
+&lt;p&gt;This is just the beginning.&lt;/p&gt;
+&lt;p&gt;Final Thoughts&lt;/p&gt;
+&lt;p&gt;Building a personal blog with LangChain was more than a technical project—it was a shift in perspective.&lt;/p&gt;
+&lt;p&gt;It made me realize that content doesn’t have to be passive anymore. It can be interactive, responsive, and alive.&lt;/p&gt;
+&lt;p&gt;If you're thinking about building something similar, my advice is simple:&lt;/p&gt;
+&lt;p&gt;Start small, experiment, and let AI enhance your creativity—not replace it.&lt;/p&gt;
+&lt;p&gt;Thanks for reading! If you enjoyed this, feel free to explore more posts or try interacting with the AI features on this blog.&lt;/p&gt;</content><category term="GenAI"/><category term="langchain"/><category term="genai"/></entry><entry><title>AI Agent Directory - Few Shots LLM Models</title><link href="https://ashwinsuresh-ngr.github.io/ai-agent-directory-few-shots-llm-models.html" rel="alternate"/><published>2026-04-10T00:00:00+05:30</published><updated>2026-04-10T00:00:00+05:30</updated><author><name>Ashwin S</name></author><id>tag:ashwinsuresh-ngr.github.io,2026-04-10:/ai-agent-directory-few-shots-llm-models.html</id><summary type="html">&lt;p&gt;The AI agent ecosystem is growing fast. Here's a quick directory of notable AI startups and a couple of few-shot LLM models worth knowing about. Two lines each — just enough to know what they do and why they matter.&lt;/p&gt;
+&lt;h2&gt;AI Agent Directory (Test)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Can of Soup&lt;/strong&gt; — An AI-powered app that …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The AI agent ecosystem is growing fast. Here's a quick directory of notable AI startups and a couple of few-shot LLM models worth knowing about. Two lines each — just enough to know what they do and why they matter.&lt;/p&gt;
+&lt;h2&gt;AI Agent Directory (Test)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Can of Soup&lt;/strong&gt; — An AI-powered app that lets you create fictional photos of you and your friends in imaginary scenarios. Built during Y Combinator, it uses generative AI to place people into any meme, outfit, or movie scene.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deepgram&lt;/strong&gt; — A foundational voice AI platform offering speech-to-text, text-to-speech, and voice agent APIs. Their Nova models deliver high accuracy and low latency, supporting 30+ languages for real-time transcription.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Diffuse Bio&lt;/strong&gt; — Building generative AI for protein design, using diffusion models to engineer new proteins with control and accuracy. Their foundation model DSG-1 can generate 3D protein structures and design binders from user prompts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Draftaid&lt;/strong&gt; — An AI-powered CAD tool that converts 3D models into precise 2D manufacturing drawings automatically. It reduces manual drafting time by up to 90%, acting like a copilot for mechanical engineers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edgetrace&lt;/strong&gt; — A YC-backed AI video analytics platform that lets users search camera networks using natural language. Primarily used by law enforcement and transportation for real-time threat detection and suspect identification.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EzDubz&lt;/strong&gt; — A real-time AI dubbing tool that translates videos, livestreams, and phone calls while preserving the original speaker's voice. Their proprietary models clone voices on the fly and even replicate emotions across 20+ languages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exa&lt;/strong&gt; — An AI-powered search engine and API built for developers and AI agents. Unlike traditional keyword search, Exa uses neural embeddings for semantic understanding, powering tools like Cursor and Lovable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Guide Labs&lt;/strong&gt; — Building interpretable AI foundation models that can explain their reasoning and are easy to audit. Their open-source Steerling-8B is an 8-billion-parameter LLM designed for transparency and debuggability.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Infinity AI&lt;/strong&gt; — Now known as Lemon Slice, they build a video foundation model for human motion and emotion. Their tech generates expressive, talking characters across styles from photorealistic to cartoon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;K-Scale&lt;/strong&gt; — Building open-source humanoid robots for developers, with models starting at $999. Their integrated software, hardware, and ML stack lets developers focus on building applications for embodied AI.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sevn&lt;/strong&gt; — A generative design startup using AI to automate and optimize the creative design process. Users define parameters and constraints, and Sevn generates a range of design options to explore.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Linux Inc&lt;/strong&gt; — An AI startup focused on bringing intelligent tooling to the Linux ecosystem. They aim to simplify Linux administration and development workflows through AI-powered automation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Metalware&lt;/strong&gt; — A copilot for firmware engineers that automates low-level programming for embedded systems. Their binary analysis tool fuzzes ARM-based software to detect defects earlier in the development lifecycle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Naiver AI&lt;/strong&gt; — Navier AI provides a web-based platform for running CFD (computational fluid dynamics) simulations at scale. Their AI agents handle geometry cleanup, meshing, solver configuration, and cloud resource management autonomously.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Osium AI&lt;/strong&gt; — An AI-powered platform that accelerates materials and chemicals R&amp;amp;D for industry leaders. Their software helps engineers design new materials faster, spanning alloys, polymers, textiles, and bio-based materials.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Phind&lt;/strong&gt; — An AI search engine purpose-built for developers that generates direct, code-inclusive answers to technical questions. It combines real-time web search with specialized models trained on programming languages and frameworks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Piramidal&lt;/strong&gt; — Building a foundation model for the brain, trained on a massive corpus of EEG brainwave data. Their AI interprets neural signals for neurological diagnostics, already being deployed in ICU settings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Playground&lt;/strong&gt; — A browser-based AI image generation and design platform used by over 9 million users. It combines text-to-image generation with a full graphic design suite for logos, social media posts, and more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PlayHT&lt;/strong&gt; — An AI voice generation platform that offered ultra-realistic text-to-speech with 900+ voices in 142 languages. Known for voice cloning and custom voice creation through deep learning algorithms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sonauto&lt;/strong&gt; — An AI music editor that turns prompts, lyrics, or melodies into full songs in any style. It supports thousands of styles with full-length songs up to 4.5 minutes, complete with vocals and instrumentation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tavus&lt;/strong&gt; — An AI video personalization platform that creates hyper-personalized videos at scale from a single recording. It uses deep learning for voice synthesis and face cloning to generate thousands of unique video variations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;YonduAI&lt;/strong&gt; — Building the robotic workforce of the future, starting with logistics automation in warehouses. They deploy humanoid robots with remote teleoperation that gradually transitions to full AI-driven automation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Yoneda Labs&lt;/strong&gt; — Building a foundation model for chemical reactions to help chemists optimize drug discovery. Their AI defines parameters like temperature, concentration, and catalyst to make synthesis faster and cheaper.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SyncLabs&lt;/strong&gt; — An AI lip-sync video generator that creates perfectly synchronized mouth movements from any audio track. Their zero-shot model handles any face in any video context without prior training on specific individuals.&lt;/p&gt;
+&lt;h2&gt;Few-Shot LLM Models&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Llama 3.1&lt;/strong&gt; — Meta's open-source large language model available in 8B, 70B, and 405B parameter sizes. It supports 128K context length and multilingual capabilities, making it one of the most versatile open-weight models for fine-tuning and deployment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mixtral&lt;/strong&gt; — Mistral AI's open-source mixture-of-experts (MoE) model that activates only a subset of parameters per token for efficient inference. It delivers performance comparable to much larger dense models while being significantly faster and more cost-effective to run.&lt;/p&gt;</content><category term="GenAI"/><category term="GenAI"/><category term="AI-agents"/><category term="LLM"/><category term="startups"/><category term="directory"/></entry><entry><title>My GenAI Blogs</title><link href="https://ashwinsuresh-ngr.github.io/my-genai-blogs.html" rel="alternate"/><published>2026-01-10T00:00:00+05:30</published><updated>2026-01-10T00:00:00+05:30</updated><author><name>Ashwin S</name></author><id>tag:ashwinsuresh-ngr.github.io,2026-01-10:/my-genai-blogs.html</id><summary type="html">&lt;h2&gt;Why GenAI?&lt;/h2&gt;
+&lt;p&gt;Generative AI has completely changed how I think about software, creativity, and problem-solving. Over the past year, I've gone deep into the world of large language models, prompt engineering, retrieval-augmented generation, fine-tuning, and AI agents. The pace of change is incredible, and I wanted a place to document …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Why GenAI?&lt;/h2&gt;
+&lt;p&gt;Generative AI has completely changed how I think about software, creativity, and problem-solving. Over the past year, I've gone deep into the world of large language models, prompt engineering, retrieval-augmented generation, fine-tuning, and AI agents. The pace of change is incredible, and I wanted a place to document what I'm learning as I go.&lt;/p&gt;
+&lt;p&gt;This blog is that place. I'll be writing about my hands-on experiences with GenAI, the tools I'm experimenting with, things that worked, things that didn't, and the lessons I've picked up along the way.&lt;/p&gt;
+&lt;h2&gt;What I've Been Exploring&lt;/h2&gt;
+&lt;p&gt;My GenAI journey started with using ChatGPT and Claude for day-to-day coding tasks. That quickly evolved into deeper exploration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prompt engineering&lt;/strong&gt; — learning how to get consistent, high-quality outputs from LLMs by structuring prompts effectively.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; — building pipelines that ground LLM responses in real data using vector databases and embeddings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fine-tuning&lt;/strong&gt; — adapting pre-trained models for specific tasks and domains.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI agents&lt;/strong&gt; — creating autonomous workflows where LLMs can use tools, reason through multi-step problems, and take actions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Local models&lt;/strong&gt; — running open-source models like LLaMA and Mistral locally to understand how they work under the hood.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I'm not just reading about these topics. I'm building with them, breaking things, and learning from the results.&lt;/p&gt;
+&lt;h2&gt;What to Expect&lt;/h2&gt;
+&lt;p&gt;I plan to post at least one article a week covering topics like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Practical tutorials on building GenAI applications&lt;/li&gt;
+&lt;li&gt;Comparisons of different models and frameworks&lt;/li&gt;
+&lt;li&gt;Deep dives into concepts like embeddings, tokenization, and attention mechanisms&lt;/li&gt;
+&lt;li&gt;Real-world use cases and project walkthroughs&lt;/li&gt;
+&lt;li&gt;Opinions on where GenAI is heading and what matters for developers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some posts will be short and focused, others will be longer walkthroughs. The goal is to share useful, honest content from a developer's perspective.&lt;/p&gt;
+&lt;h2&gt;Let's Go&lt;/h2&gt;
+&lt;p&gt;I'm excited to start writing and sharing. GenAI is moving fast, and the best way to keep up is to build, experiment, and document. That's exactly what this blog is for.&lt;/p&gt;</content><category term="Announcement"/><category term="GenAI"/><category term="LLM"/><category term="machine-learning"/><category term="deep-learning"/><category term="announcement"/></entry></feed>
