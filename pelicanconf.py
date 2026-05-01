@@ -7,9 +7,6 @@ TIMEZONE = 'Asia/Kolkata'
 DEFAULT_LANG = 'en'
 THEME = 'theme'
 
-# Enable LESS compilation
-USE_LESS = True
-
 # Force light theme
 THEME_COLOR = 'light'
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = False
