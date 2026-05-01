@@ -47,18 +47,16 @@
     </script>
   {% endif %}
 
-  <div>
+  <div class="article-body-content">
     {{ article.content }}
   </div>
-  <div class="tag-cloud">
-    <p>
-      {% if article.tags %}
-      {% for tag in article.tags %}
-      <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-      {% endfor %}
-      {% endif %}
-    </p>
+  {% if article.tags %}
+  <div class="tag-list">
+    {% for tag in article.tags %}
+    <a class="tag" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+    {% endfor %}
   </div>
+  {% endif %}
 
   {% if article.share_post %}
   {% include "partial/share_post.html" %}

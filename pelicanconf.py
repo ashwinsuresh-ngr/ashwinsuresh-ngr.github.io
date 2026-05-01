@@ -1,6 +1,7 @@
 AUTHOR = 'Ashwin S'
 SITENAME = 'Ashwin'
 SITETITLE = 'Ashwin'
+SITESUBTITLE = 'AI & GenAI Builder'
 SITEURL = ""
 PATH = "content"
 TIMEZONE = 'Asia/Kolkata'
