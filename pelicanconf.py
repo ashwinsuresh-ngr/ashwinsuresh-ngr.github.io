@@ -41,7 +41,7 @@ SOCIAL = (
     ("github", "https://github.com/ashwinsuresh-ngr"),
     ("linkedin", "https://www.linkedin.com/in/ashwin-s-214a87302/"),
     ("rss", "https://articlevil.substack.com/"),
-    ("book", "https://ashwinsuresh-ngr.github.io/pynotes/"),
+    ("python", "https://ashwinsuresh-ngr.github.io/pynotes/"),
 )
 
 DEFAULT_PAGINATION = 10
