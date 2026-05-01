@@ -7,6 +7,9 @@ TIMEZONE = 'Asia/Kolkata'
 DEFAULT_LANG = 'en'
 THEME = 'theme'
 
+# Enable LESS compilation
+USE_LESS = True
+
 # Disable URL hash fragments in article links
 DISABLE_URL_HASH = True
 
