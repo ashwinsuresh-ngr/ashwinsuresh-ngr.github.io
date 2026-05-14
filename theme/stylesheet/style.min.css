@@ -372,25 +372,29 @@ ul.list li {
   padding: 4px;
 }
 ul.social {
-  font-size: 1.6em;
+  font-size: 2em;
   padding-top: 20px;
 }
 ul.social li {
-  display: inline;
+  display: inline-block;
+  margin: 0 8px;
 }
 ul.social a:hover {
   z-index: 2;
-  -webkit-transform: translateY(-2px);
-  transform: translateY(-2px);
+  -webkit-transform: translateY(-4px) scale(1.1);
+  transform: translateY(-4px) scale(1.1);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 }
 ul.social a {
   display: inline-block;
-  width: 36px;
-  height: 36px;
-  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
   text-align: center;
-  font-size: 0.8em;
-  line-height: 36px;
+  font-size: 1em;
+  line-height: 60px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 ul.social a.sc-facebook {
   background-color: #3e5b98;
@@ -408,13 +412,13 @@ ul.social a.sc-pinterest {
   background-color: #c92619;
 }
 ul.social a.sc-linkedin {
-  background-color: #3371b7;
+  background-color: #0077b5;
 }
 ul.social a.sc-medium {
   background-color: #00ab6b;
 }
 ul.social a.sc-rss {
-  background-color: #f26109;
+  background-color: #ff6600;
 }
 ul.social a.sc-stack-overflow {
   background-color: #ff9900;
@@ -436,7 +440,8 @@ ul.social a.sc-github-alt {
   background-color: #24292e;
 }
 ul.social a.sc-python {
-  background-color: #3776ab;
+  background-color: #ffd43b;
+  color: #3776ab !important;
 }
 ul.social a.sc-at,
 ul.social a.sc-mailbox,

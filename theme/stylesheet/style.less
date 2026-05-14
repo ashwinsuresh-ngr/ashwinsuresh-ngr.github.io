@@ -457,27 +457,31 @@ ul.list {
 }
 
 ul.social {
-  font-size: 1.6em;
+  font-size: 2em;
   padding-top: 20px;
 
   li {
-    display: inline;
+    display: inline-block;
+    margin: 0 8px;
   }
 
   a:hover {
     z-index: 2;
-    -webkit-transform: translateY(-2px);
-    transform: translateY(-2px);
+    -webkit-transform: translateY(-4px) scale(1.1);
+    transform: translateY(-4px) scale(1.1);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.4);
   }
 
   a {
     display: inline-block;
-    width: 36px;
-    height: 36px;
-    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
     text-align: center;
-    font-size: .8em;
-    line-height: 36px;
+    font-size: 1em;
+    line-height: 60px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   }
 
   a.sc-facebook {
@@ -501,7 +505,7 @@ ul.social {
   }
 
   a.sc-linkedin {
-    background-color: @linkedin-bg-color;
+    background-color: #0077b5;
   }
 
   a.sc-medium {
@@ -509,7 +513,7 @@ ul.social {
   }
 
   a.sc-rss {
-    background-color: @rss-bg-color;
+    background-color: #ff6600;
   }
 
   a.sc-stack-overflow {
@@ -533,11 +537,12 @@ ul.social {
   }
 
   a.sc-github, a.sc-github-alt {
-    background-color: @github-bg-color;
+    background-color: #24292e;
   }
 
   a.sc-python {
-    background-color: @python-bg-color;
+    background-color: #ffd43b;
+    color: #3776ab !important;
   }
 
   a.sc-at, a.sc-mailbox, a.sc-envelope {
