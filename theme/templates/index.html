@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.index_top %}
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle ads-responsive"
+       data-ad-client="{{ GOOGLE_ADSENSE.ca_id }}"
+       data-ad-slot="{{ GOOGLE_ADSENSE.ads.index_top }}"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+{% endif %}
+
+<div class="blog-dashboard">
+  <h2 class="dashboard-title">Latest Posts</h2>
+  <div class="card-grid">
+  {% for article in articles_page.object_list %}
+  <div class="post-card">
+    <div class="card-header">
+      <span class="card-cat">{{ article.category }}</span>
+      <span class="card-date">{{ article.locale_date }}</span>
+    </div>
+    <h3 class="card-title">
+      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    </h3>
+    <div class="card-summary">
+      {{ article.summary | striptags | truncate(300) }}
+    </div>
+    <div class="card-footer">
+      {% if article.tags %}
+      <div class="card-tags">
+        {% for tag in article.tags[:3] %}
+        <span class="card-tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+      <a class="card-btn" href="{{ SITEURL }}/{{ article.url }}">See More →</a>
+    </div>
+  </div>
+  {% endfor %}
+  </div>
+</div>
+
+{% include "partial/pagination.html" %}
+
+{% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.index_bottom %}
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle ads-responsive"
+       data-ad-client="{{ GOOGLE_ADSENSE.ca_id }}"
+       data-ad-slot="{{ GOOGLE_ADSENSE.ads.index_bottom }}"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+{% endif %}
+
+{% endblock %}
