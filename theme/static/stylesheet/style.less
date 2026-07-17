@@ -484,6 +484,11 @@ ul.social {
     line-height: 60px;
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    color: #ffffff !important;
+
+    i {
+      color: #ffffff !important;
+    }
   }
 
   a.sc-facebook {
@@ -540,11 +545,12 @@ ul.social {
 
   a.sc-github, a.sc-github-alt {
     background-color: #24292e;
+    i { color: #ffffff !important; }
   }
 
   a.sc-python {
     background-color: #ffd43b;
-    color: #3776ab !important;
+    i { color: #3776ab !important; }
   }
 
   a.sc-at, a.sc-mailbox, a.sc-envelope {
@@ -622,7 +628,7 @@ ul.social {
 
 @media screen and (min-width: 768px) {
   aside {
-    width: 35vw;
+    width: 25vw;
     height: 100vh;
     position: fixed;
     z-index: 1000;
@@ -650,7 +656,7 @@ ul.social {
   main {
     height: 100vh;
     position: relative;
-    padding-left: 35vw;
+    padding-left: calc(25vw + 2em);
 
     article {
       max-width: 760px;
