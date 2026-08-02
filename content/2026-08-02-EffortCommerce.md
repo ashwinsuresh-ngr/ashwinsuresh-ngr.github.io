@@ -5,8 +5,6 @@ Tags: Credits , Dedication
 Slug: Effort-Commerce
 
 
-# EffortCommerce: What If Your Time Was the Only Currency You Needed?
-
 Picture a marketplace where nobody asks for your credit card — they ask what you can *do*. That's the idea behind EffortCommerce, a model that swaps cash for contribution as the basic unit of exchange.
 
 ## The Core Idea
