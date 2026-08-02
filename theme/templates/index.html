@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="blog-feed">
+  {% for article in articles_page.object_list %}
+  <div class="feed-item">
+    <div class="feed-meta">
+      <a class="feed-category" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+      <span class="feed-date">{{ article.locale_date }}</span>
+    </div>
+    <h2 class="feed-title">
+      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    </h2>
+    <p class="feed-summary">{{ article.summary | striptags | truncate(280) }}</p>
+    <div class="feed-footer">
+      {% if article.tags %}
+      <div class="feed-tags">
+        {% for tag in article.tags[:3] %}
+        <span class="feed-tag">#{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+      <a class="feed-readmore" href="{{ SITEURL }}/{{ article.url }}">Read more →</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+{% include "partial/pagination.html" %}
+{% endblock %}
