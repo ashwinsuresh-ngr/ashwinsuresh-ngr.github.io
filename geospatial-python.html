@@ -1,0 +1,257 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="https://ashwinsuresh-ngr.github.io/theme/stylesheet/style.min.css">
+
+
+    <link id="pygments-light-theme" rel="stylesheet" type="text/css"
+          href="https://ashwinsuresh-ngr.github.io/theme/pygments/github.min.css">
+
+
+
+  <link rel="stylesheet" type="text/css" href="https://ashwinsuresh-ngr.github.io/theme/font-awesome/css/fontawesome.css">
+  <link rel="stylesheet" type="text/css" href="https://ashwinsuresh-ngr.github.io/theme/font-awesome/css/brands.css">
+  <link rel="stylesheet" type="text/css" href="https://ashwinsuresh-ngr.github.io/theme/font-awesome/css/solid.css">
+
+
+
+
+  <link href="https://ashwinsuresh-ngr.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Ashwin Atom">
+
+
+
+
+
+
+
+
+ 
+
+<meta name="author" content="Ashwin S" />
+<meta name="description" content="There are only two numbers needed to describe any location on Earth — latitude and longitude. With Python, those two numbers can become maps, distance calculations, and satellite analysis. Here&#39;s everything you need to get started. What Is Geospatial Data? Geospatial data is any data that has a location attached to …" />
+<meta name="keywords" content="python, geospatial, data-science, gis, mapping">
+
+
+  <meta property="og:site_name" content="Ashwin"/>
+  <meta property="og:title" content="Mapping the World with Python — A Geospatial Guide"/>
+  <meta property="og:description" content="There are only two numbers needed to describe any location on Earth — latitude and longitude. With Python, those two numbers can become maps, distance calculations, and satellite analysis. Here&#39;s everything you need to get started. What Is Geospatial Data? Geospatial data is any data that has a location attached to …"/>
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:url" content="https://ashwinsuresh-ngr.github.io/geospatial-python.html"/>
+  <meta property="og:type" content="article"/>
+  <meta property="article:published_time" content="2026-06-08 00:00:00+05:30"/>
+  <meta property="article:modified_time" content=""/>
+  <meta property="article:author" content="https://ashwinsuresh-ngr.github.io/author/ashwin-s.html">
+  <meta property="article:section" content="Python"/>
+  <meta property="article:tag" content="python"/>
+  <meta property="article:tag" content="geospatial"/>
+  <meta property="article:tag" content="data-science"/>
+  <meta property="article:tag" content="gis"/>
+  <meta property="article:tag" content="mapping"/>
+  <meta property="og:image" content="/images/ashwins.jpeg">
+
+  <title>Ashwin &ndash; Mapping the World with Python — A Geospatial Guide</title>
+
+
+</head>
+<body class="light-theme">
+
+<aside>
+  <div>
+    <a href="https://ashwinsuresh-ngr.github.io/">
+      <img src="/images/ashwins.jpeg" alt="Ashwin" title="Ashwin">
+    </a>
+
+    <h1>
+      <a href="https://ashwinsuresh-ngr.github.io/">Ashwin</a>
+    </h1>
+
+    <p>AI & GenAI Builder</p>
+
+
+
+    <nav>
+      <ul class="list">
+
+          <li>
+            <a target="_self"
+               href="https://ashwinsuresh-ngr.github.io/pages/about.html">
+              About
+            </a>
+          </li>
+      </ul>
+    </nav>
+
+
+    <ul class="social">
+      <li>
+        <a class="sc-github"
+           href="https://github.com/ashwinsuresh-ngr"
+           target="_blank">
+          <i class="fa-brands fa-github"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-linkedin"
+           href="https://www.linkedin.com/in/ashwin-s-214a87302/"
+           target="_blank">
+          <i class="fa-brands fa-linkedin"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-rss"
+           href="https://articlevil.substack.com/"
+           target="_blank">
+          <i class="fa-solid fa-rss"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-python"
+           href="https://ashwinsuresh-ngr.github.io/pynotes/"
+           target="_blank">
+          <i class="fa-brands fa-python"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+</aside>
+  <main>
+
+
+<article class="single">
+  <header>
+      
+    <br/>
+    <h1 id="geospatial-python">Mapping the World with Python — A Geospatial Guide</h1>
+    <p>
+      Posted on Mon 08 June 2026 in <a href="https://ashwinsuresh-ngr.github.io/category/python.html">Python</a>
+
+    </p>
+  </header>
+
+
+  <div class="article-body-content">
+    <p>There are only two numbers needed to describe any location on Earth — latitude and longitude. With Python, those two numbers can become maps, distance calculations, and satellite analysis. Here's everything you need to get started.</p>
+<h2>What Is Geospatial Data?</h2>
+<p>Geospatial data is any data that has a location attached to it. It comes in two forms:</p>
+<ul>
+<li><strong>Vector</strong> — discrete shapes. A city is a point. A road is a line. A state boundary is a polygon.</li>
+<li><strong>Raster</strong> — a grid of pixels. Satellite images, elevation maps, rainfall data. Think of it as a photograph with coordinates baked in.</li>
+</ul>
+<h2>The Three Libraries You Actually Need</h2>
+<ul>
+<li><strong>Shapely</strong> — creates geometry objects (points, lines, polygons) in Python.</li>
+<li><strong>GeoPandas</strong> — like pandas, but every row has a location. Reads shapefiles, GeoJSON, and CSVs with coordinates. This is your main tool.</li>
+<li><strong>Folium</strong> — turns your data into interactive web maps. One line to save as HTML.</li>
+</ul>
+<div class="highlight"><pre><span></span><code>pip<span class="w"> </span>install<span class="w"> </span>geopandas<span class="w"> </span>shapely<span class="w"> </span>folium
+</code></pre></div>
+
+<h2>Your First 10 Lines of Geospatial Python</h2>
+<div class="highlight"><pre><span></span><code><span class="kn">from</span><span class="w"> </span><span class="nn">shapely.geometry</span><span class="w"> </span><span class="kn">import</span> <span class="n">Point</span><span class="p">,</span> <span class="n">Polygon</span>
+
+<span class="c1"># Neyveli, Tamil Nadu</span>
+<span class="n">neyveli</span> <span class="o">=</span> <span class="n">Point</span><span class="p">(</span><span class="mf">79.4754</span><span class="p">,</span> <span class="mf">11.5985</span><span class="p">)</span>   <span class="c1"># lon first, lat second</span>
+
+<span class="c1"># Simplified Tamil Nadu boundary</span>
+<span class="n">tamil_nadu</span> <span class="o">=</span> <span class="n">Polygon</span><span class="p">([</span>
+    <span class="p">(</span><span class="mf">76.2</span><span class="p">,</span> <span class="mf">8.0</span><span class="p">),</span> <span class="p">(</span><span class="mf">80.4</span><span class="p">,</span> <span class="mf">8.0</span><span class="p">),</span>
+    <span class="p">(</span><span class="mf">80.4</span><span class="p">,</span> <span class="mf">13.5</span><span class="p">),</span> <span class="p">(</span><span class="mf">76.2</span><span class="p">,</span> <span class="mf">13.5</span><span class="p">)</span>
+<span class="p">])</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">tamil_nadu</span><span class="o">.</span><span class="n">contains</span><span class="p">(</span><span class="n">neyveli</span><span class="p">))</span>   <span class="c1"># True</span>
+</code></pre></div>
+
+<p>That's it. You've created a real location, drawn a boundary, and checked containment — the three building blocks of almost every spatial analysis.</p>
+<h2>The One Concept That Trips Everyone Up — CRS</h2>
+<p>CRS stands for Coordinate Reference System. It's the math that maps coordinates onto Earth's curved surface.</p>
+<p>The problem: if your data is in GPS degrees (EPSG:4326) and you calculate a distance, you'll get degrees back — not kilometers. Useless.</p>
+<p>The fix: reproject to a metric system before measuring.</p>
+<div class="highlight"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">geopandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">gpd</span>
+<span class="kn">from</span><span class="w"> </span><span class="nn">shapely.geometry</span><span class="w"> </span><span class="kn">import</span> <span class="n">Point</span>
+
+<span class="n">chennai</span> <span class="o">=</span> <span class="n">gpd</span><span class="o">.</span><span class="n">GeoSeries</span><span class="p">([</span><span class="n">Point</span><span class="p">(</span><span class="mf">80.2707</span><span class="p">,</span> <span class="mf">13.0827</span><span class="p">)],</span> <span class="n">crs</span><span class="o">=</span><span class="s2">&quot;EPSG:4326&quot;</span><span class="p">)</span>
+<span class="n">mumbai</span>  <span class="o">=</span> <span class="n">gpd</span><span class="o">.</span><span class="n">GeoSeries</span><span class="p">([</span><span class="n">Point</span><span class="p">(</span><span class="mf">72.8777</span><span class="p">,</span> <span class="mf">19.0760</span><span class="p">)],</span> <span class="n">crs</span><span class="o">=</span><span class="s2">&quot;EPSG:4326&quot;</span><span class="p">)</span>
+
+<span class="c1"># Reproject to meters (UTM Zone 44N — South India)</span>
+<span class="n">dist</span> <span class="o">=</span> <span class="n">chennai</span><span class="o">.</span><span class="n">to_crs</span><span class="p">(</span><span class="s2">&quot;EPSG:32644&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">distance</span><span class="p">(</span>
+       <span class="n">mumbai</span><span class="o">.</span><span class="n">to_crs</span><span class="p">(</span><span class="s2">&quot;EPSG:32644&quot;</span><span class="p">)</span>
+<span class="p">)</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">dist</span><span class="o">/</span><span class="mi">1000</span><span class="si">:</span><span class="s2">.0f</span><span class="si">}</span><span class="s2"> km&quot;</span><span class="p">)</span>   <span class="c1"># 1048 km ✓</span>
+</code></pre></div>
+
+<p>Simple rule: store in EPSG:4326, measure in EPSG:32644.</p>
+<h2>Loading Real Data and Making a Map</h2>
+<div class="highlight"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">geopandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">gpd</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">folium</span>
+
+<span class="c1"># Built-in world dataset</span>
+<span class="n">world</span> <span class="o">=</span> <span class="n">gpd</span><span class="o">.</span><span class="n">read_file</span><span class="p">(</span><span class="n">gpd</span><span class="o">.</span><span class="n">datasets</span><span class="o">.</span><span class="n">get_path</span><span class="p">(</span><span class="s1">&#39;naturalearth_lowres&#39;</span><span class="p">))</span>
+
+<span class="c1"># Filter and plot</span>
+<span class="n">asia</span> <span class="o">=</span> <span class="n">world</span><span class="p">[</span><span class="n">world</span><span class="p">[</span><span class="s1">&#39;continent&#39;</span><span class="p">]</span> <span class="o">==</span> <span class="s1">&#39;Asia&#39;</span><span class="p">]</span>
+<span class="n">asia</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">&#39;gdp_md_est&#39;</span><span class="p">,</span> <span class="n">cmap</span><span class="o">=</span><span class="s1">&#39;YlOrRd&#39;</span><span class="p">,</span> <span class="n">legend</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+
+<span class="c1"># Interactive map</span>
+<span class="n">m</span> <span class="o">=</span> <span class="n">folium</span><span class="o">.</span><span class="n">Map</span><span class="p">(</span><span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="mf">11.0</span><span class="p">,</span> <span class="mf">78.6</span><span class="p">],</span> <span class="n">zoom_start</span><span class="o">=</span><span class="mi">6</span><span class="p">)</span>
+<span class="n">folium</span><span class="o">.</span><span class="n">Marker</span><span class="p">([</span><span class="mf">11.5985</span><span class="p">,</span> <span class="mf">79.4754</span><span class="p">],</span> <span class="n">popup</span><span class="o">=</span><span class="s2">&quot;Neyveli&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">add_to</span><span class="p">(</span><span class="n">m</span><span class="p">)</span>
+<span class="n">m</span><span class="o">.</span><span class="n">save</span><span class="p">(</span><span class="s1">&#39;map.html&#39;</span><span class="p">)</span>   <span class="c1"># open in your browser</span>
+</code></pre></div>
+
+<p>Three lines to filter a continent. Three lines to make a zoomable web map. That's the power of this stack.</p>
+<h2>What to Build First</h2>
+<p>Pick a question about a place you know and answer it with data. A few starter ideas:</p>
+<ul>
+<li>Load Tamil Nadu district boundaries → join with census data → make a population density map</li>
+<li>Find all cities within 200 km of your city using a buffer</li>
+<li>Download Sentinel-2 satellite imagery of your district → calculate NDVI vegetation health</li>
+</ul>
+<p>All the data you need is free — Bhuvan (ISRO) for India-specific layers, Natural Earth for global data, Copernicus Hub for satellite imagery.</p>
+<h2>The Bottom Line</h2>
+<p>You need three libraries. One coordinate system rule. And a question about a real place.</p>
+<p>The rest is just building from there.</p>
+  </div>
+  <div class="tag-list">
+    <a class="tag" href="https://ashwinsuresh-ngr.github.io/tag/python.html">python</a>
+    <a class="tag" href="https://ashwinsuresh-ngr.github.io/tag/geospatial.html">geospatial</a>
+    <a class="tag" href="https://ashwinsuresh-ngr.github.io/tag/data-science.html">data-science</a>
+    <a class="tag" href="https://ashwinsuresh-ngr.github.io/tag/gis.html">gis</a>
+    <a class="tag" href="https://ashwinsuresh-ngr.github.io/tag/mapping.html">mapping</a>
+  </div>
+
+
+
+
+
+
+
+</article>
+
+<footer>
+<p>&copy; 2026 Ashwin S</p>
+<p>
+Built with <a href="http://getpelican.com" target="_blank">Pelican</a>
+</p></footer>  </main>
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Blog",
+  "name": " Ashwin ",
+  "url" : "https://ashwinsuresh-ngr.github.io",
+  "image": "/images/ashwins.jpeg",
+  "description": ""
+}
+</script>
+</body>
+</html>
