@@ -1,0 +1,164 @@
+// ============================================
+// Professional Design System - Ashwin's Blog
+// ============================================
+
+// Core Palette
+@primary:       #111827;   // Near-black for sidebar
+@accent:        #3b82f6;   // Blue accent
+@accent-hover:  #2563eb;
+@white:         #ffffff;
+@off-white:     #f9fafb;
+@border:        #e5e7eb;
+@text-main:     #111827;
+@text-muted:    #6b7280;
+@text-light:    #9ca3af;
+
+// Legacy variable mappings (keep theme working)
+@orange:        @accent;
+@light-orange:  @accent-hover;
+@blue:          @accent;
+@light-blue:    #60a5fa;
+@grey:          #1f2937;   // Dark grey (NOT blue)
+@light-grey:    @border;
+@med-grey:      @text-muted;
+@dark-grey:     @text-main;
+@solid-dark-grey: #1f2937;
+@very-dark-grey:  #111827;
+
+// Font family
+@sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+@mono: 'JetBrains Mono', 'Fira Code', 'Source Code Pro', 'Consolas', monospace;
+
+// Body
+@body-bg: @white;
+@body-bg-dark-theme: #1f2937;
+@text-color:         @text-main;
+@text-color-dark-theme: #f3f4f6;
+
+// Links
+@link-color:       @accent;
+@link-hover-color: @accent-hover;
+
+// Sidebar
+@sidebar-bg:              @primary;
+@sidebar-bg-dark-theme:   #111827;
+@sidebar-text-color:      @white;
+@sidebar-link-color:      #d1d5db;
+@sidebar-link-hover-color: @white;
+
+// Buttons
+@btn-bg:       @accent;
+@btn-text-color: @white;
+@btn-hover-color: @accent-hover;
+
+// Tags
+@tag-bg:       #eff6ff;
+@tag-text-color: @accent;
+@tag-hover-color: #dbeafe;
+
+// Header
+@header-text-color: @text-muted;
+
+// Footer
+@footer-text-color:            @text-muted;
+@footer-border-color:          @border;
+@footer-border-color-dark-theme: #374151;
+
+// Relative posts
+@rel-post-border-color:          @border;
+@rel-post-border-color-dark-theme: #374151;
+
+// Nav
+@nav-border-color:           @border;
+@nav-border-color-dark-theme: #374151;
+
+// Social icon colors
+@email-bg-color:        #3b82f6;
+@facebook-bg-color:     #1877f2;
+@github-bg-color:       #24292e;
+@python-bg-color:       #ffd43b;
+@google-bg-color:       #ea4335;
+@instagram-bg-color:    #e1306c;
+@keybase-bg-color:      #4c8dff;
+@linkedin-bg-color:     #0077b5;
+@medium-bg-color:       #000000;
+@pinterest-bg-color:    #e60023;
+@reddit-bg-color:       #ff4500;
+@rss-bg-color:          #f26522;
+@soundcloud-bg-color:   #ff5500;
+@stack-overflow-bg-color: #f48024;
+@tumblr-bg-color:       #36465d;
+@twitch-bg-color:       #9146ff;
+@twitter-bg-color:      #1da1f2;
+@youtube-bg-color:      #ff0000;
+@gitlab-bg-color:       #fc6d26;
+@xing-bg-color:         #006567;
+@bitbucket-bg-color:    #0052cc;
+@mastodon-bg-color:     #6364ff;
+@diaspora-color:        #ffffff;
+@diaspora-bg-color:     #a01216;
+@flickr-bg-color:       #ff0084;
+@lastfm-bg-color:       #d51007;
+
+// Admonition colors
+@admonition-generic-color:          @text-main;
+@admonition-generic-color-dark-theme: #f3f4f6;
+@admonition-generic-bg-color:       #f3f4f6;
+@admonition-generic-bg-color-dark-theme: #374151;
+
+@admonition-attention-color:          #92400e;
+@admonition-attention-color-dark-theme: #fbbf24;
+@admonition-attention-bg-color:       #fffbeb;
+@admonition-attention-bg-color-dark-theme: #451a03;
+@admonition-attention-icon: "\f071\00a0 ";
+
+@admonition-caution-color:          @admonition-attention-color;
+@admonition-caution-color-dark-theme: @admonition-attention-color-dark-theme;
+@admonition-caution-bg-color:       @admonition-attention-bg-color;
+@admonition-caution-bg-color-dark-theme: @admonition-attention-bg-color-dark-theme;
+@admonition-caution-icon: @admonition-attention-icon;
+
+@admonition-warning-color:          @admonition-attention-color;
+@admonition-warning-color-dark-theme: @admonition-attention-color-dark-theme;
+@admonition-warning-bg-color:       @admonition-attention-bg-color;
+@admonition-warning-bg-color-dark-theme: @admonition-attention-bg-color-dark-theme;
+@admonition-warning-icon: @admonition-attention-icon;
+
+@admonition-danger-color:          #991b1b;
+@admonition-danger-color-dark-theme: #fca5a5;
+@admonition-danger-bg-color:       #fef2f2;
+@admonition-danger-bg-color-dark-theme: #450a0a;
+@admonition-danger-icon: "\f06a\00a0 ";
+
+@admonition-error-color:          @admonition-danger-color;
+@admonition-error-color-dark-theme: @admonition-danger-color-dark-theme;
+@admonition-error-bg-color:       @admonition-danger-bg-color;
+@admonition-error-bg-color-dark-theme: @admonition-danger-bg-color-dark-theme;
+@admonition-error-icon: @admonition-danger-icon;
+
+@admonition-hint-color:          #1e40af;
+@admonition-hint-color-dark-theme: #93c5fd;
+@admonition-hint-bg-color:       #eff6ff;
+@admonition-hint-bg-color-dark-theme: #1e3a5f;
+@admonition-hint-icon: "\f0eb\00a0 ";
+
+@admonition-tip-color:          @admonition-hint-color;
+@admonition-tip-color-dark-theme: @admonition-hint-color-dark-theme;
+@admonition-tip-bg-color:       @admonition-hint-bg-color;
+@admonition-tip-bg-color-dark-theme: @admonition-hint-bg-color-dark-theme;
+@admonition-tip-icon: @admonition-hint-icon;
+
+@admonition-important-color:          #065f46;
+@admonition-important-color-dark-theme: #6ee7b7;
+@admonition-important-bg-color:       #ecfdf5;
+@admonition-important-bg-color-dark-theme: #022c22;
+@admonition-important-icon: "\f05a\00a0 ";
+
+@admonition-note-color:          @admonition-important-color;
+@admonition-note-color-dark-theme: @admonition-important-color-dark-theme;
+@admonition-note-bg-color:       @admonition-important-bg-color;
+@admonition-note-bg-color-dark-theme: @admonition-important-bg-color-dark-theme;
+@admonition-note-icon: @admonition-important-icon;
+
+@figure-color: @text-muted;
+@figure-color-dark-theme: #9ca3af;
