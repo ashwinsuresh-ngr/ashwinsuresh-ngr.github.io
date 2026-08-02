@@ -1,0 +1,56 @@
+@import "variables.less";
+
+body {
+  background-color: @body-bg-dark-theme;
+  color: @text-color-dark-theme;
+}
+
+hr {
+  background-color: #374151;
+  color: #374151;
+}
+
+aside {
+  background: #111827 !important;
+  color: @white;
+  border-right: 1px solid #1f2937 !important;
+  box-shadow: 2px 0 12px rgba(0,0,0,0.3) !important;
+
+  a { color: #d1d5db !important; }
+  a:hover { color: @white !important; }
+
+  div h1 { color: @white !important; }
+  div p { color: #9ca3af !important; }
+  nav h3 { color: @white !important; }
+
+  ul.social a i { color: #ffffff !important; }
+  ul.social a.sc-python i { color: #1e3a5f !important; }
+}
+
+main {
+  nav { border-bottom-color: #374151; }
+  nav a, .translations a { border-color: #374151; }
+
+  article {
+    kbd { background-color: #1f2937; color: #f3f4f6; }
+    blockquote, pre { border-left-color: #374151; }
+    *:not(pre) > code { background-color: #1f2937; border-color: #374151; color: #f87171; }
+  }
+
+  footer { border-top-color: #374151; }
+}
+
+div.related-posts { border-color: #374151; }
+
+div.admonition { color: @admonition-generic-color-dark-theme; background-color: @admonition-generic-bg-color-dark-theme; }
+div.admonition.attention { color: @admonition-attention-color-dark-theme; background-color: @admonition-attention-bg-color-dark-theme; }
+div.admonition.caution { color: @admonition-caution-color-dark-theme; background-color: @admonition-caution-bg-color-dark-theme; }
+div.admonition.danger { color: @admonition-danger-color-dark-theme; background-color: @admonition-danger-bg-color-dark-theme; }
+div.admonition.error { color: @admonition-error-color-dark-theme; background-color: @admonition-error-bg-color-dark-theme; }
+div.admonition.hint { color: @admonition-hint-color-dark-theme; background-color: @admonition-hint-bg-color-dark-theme; }
+div.admonition.tip { color: @admonition-tip-color-dark-theme; background-color: @admonition-tip-bg-color-dark-theme; }
+div.admonition.important { color: @admonition-important-color-dark-theme; background-color: @admonition-important-bg-color-dark-theme; }
+div.admonition.note { color: @admonition-note-color-dark-theme; background-color: @admonition-note-bg-color-dark-theme; }
+div.admonition.warning { color: @admonition-warning-color-dark-theme; background-color: @admonition-warning-bg-color-dark-theme; }
+
+figure, div.figure { color: @figure-color-dark-theme; figcaption { color: @text-color-dark-theme; } }

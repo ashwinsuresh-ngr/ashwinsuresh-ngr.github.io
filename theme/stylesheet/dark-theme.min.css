@@ -1,0 +1,109 @@
+body {
+  background-color: #1f2937;
+  color: #f3f4f6;
+}
+hr {
+  background-color: #374151;
+  color: #374151;
+}
+aside {
+  background: #111827 !important;
+  color: #ffffff;
+  border-right: 1px solid #1f2937 !important;
+  box-shadow: 2px 0 12px rgba(0, 0, 0, 0.3) !important;
+}
+aside a {
+  color: #d1d5db !important;
+}
+aside a:hover {
+  color: #ffffff !important;
+}
+aside div h1 {
+  color: #ffffff !important;
+}
+aside div p {
+  color: #9ca3af !important;
+}
+aside nav h3 {
+  color: #ffffff !important;
+}
+aside ul.social a i {
+  color: #ffffff !important;
+}
+aside ul.social a.sc-python i {
+  color: #1e3a5f !important;
+}
+main nav {
+  border-bottom-color: #374151;
+}
+main nav a,
+main .translations a {
+  border-color: #374151;
+}
+main article kbd {
+  background-color: #1f2937;
+  color: #f3f4f6;
+}
+main article blockquote,
+main article pre {
+  border-left-color: #374151;
+}
+main article *:not(pre) > code {
+  background-color: #1f2937;
+  border-color: #374151;
+  color: #f87171;
+}
+main footer {
+  border-top-color: #374151;
+}
+div.related-posts {
+  border-color: #374151;
+}
+div.admonition {
+  color: #f3f4f6;
+  background-color: #374151;
+}
+div.admonition.attention {
+  color: #fbbf24;
+  background-color: #451a03;
+}
+div.admonition.caution {
+  color: #fbbf24;
+  background-color: #451a03;
+}
+div.admonition.danger {
+  color: #fca5a5;
+  background-color: #450a0a;
+}
+div.admonition.error {
+  color: #fca5a5;
+  background-color: #450a0a;
+}
+div.admonition.hint {
+  color: #93c5fd;
+  background-color: #1e3a5f;
+}
+div.admonition.tip {
+  color: #93c5fd;
+  background-color: #1e3a5f;
+}
+div.admonition.important {
+  color: #6ee7b7;
+  background-color: #022c22;
+}
+div.admonition.note {
+  color: #6ee7b7;
+  background-color: #022c22;
+}
+div.admonition.warning {
+  color: #fbbf24;
+  background-color: #451a03;
+}
+figure,
+div.figure {
+  color: #9ca3af;
+}
+figure figcaption,
+div.figure figcaption {
+  color: #f3f4f6;
+}
