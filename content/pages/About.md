@@ -1,41 +1,35 @@
 Title: About
 Date: 2026-01-10
 
-# About the Blog
-
-This blog is about GenAI, LLMs, machine learning, Python, and tech education. I write about what I'm learning, building, and experimenting with in the world of Generative AI. I'm not a professional writer, but the more I write, the better I get.
-
 # About Me
 
-I'm **Ashwin s** — an engineer, educator, author, and founder.
+I'm **Ashwin S** — a Gen AI Developer who builds and writes about applied AI systems — from LLM-powered agents to production-ready APIs.
 
-From a rural school in Odiapatti to a career spanning multiple continents, my journey has been driven by curiosity and a deep commitment to giving back. I'm an alumnus of **Thiagarajar College of Engineering** and started my career working alongside IIT Madras professors at **NMSWorks** (a parent company of Zoho).
+On the engineering side, I work with Python, FastAPI, LangChain, and AgentScope to design and deploy Generative AI applications, along with React Native, HTML, and CSS for the interfaces that sit on top of them.
 
-I moved to Canada in 2010 and studied at **Humber Institute of Technology** in Toronto. Over 13 years in Ontario, I built a career working with American and European clients across diverse tech domains — from ticketing systems to retail and gaming technology.
+Beyond building, I write technical content that breaks down GenAI concepts for other developers — you can find my notes and tutorials at my personal site and Python notes blog.
 
-Throughout my career, I've dedicated my weekends to mentoring students from rural backgrounds, teaching them cutting-edge technologies through one-on-one sessions. The impact: **442 students** have secured their first jobs through my guidance, with over **30 of them** now earning more than ₹20 lakhs annually.
+Open to connecting with anyone working on agentic AI, LLM tooling, or technical writing in the GenAI space.
 
-## Current Work
+Completed my Degree in Bethlahem Institute of Engineering.
 
-I'm the founder of **[Kactii](https://ashwinsuresh-ngr.github.io/)** — a GenAI Agent Marketplace. I also operate **Kactii Academy** from Toronto, focusing on nurturing both Canadians and South Indians in the latest GenAI technology stack. Previously, I led **Aracor** as Head of AI & Engineering, where I managed an 11-member team and initiated the AI roadmap for AracorAI.
+## Areas of Expertise
 
-I'm also the founder of **Featurepreneur**, an invitation-only Slack community focused on student development, supporting Canadian SMEs and startups on their micro features.
+- Generative AI
+- Python
+- FastAPI
+- LangChain
+- AgentScope
+- AI Agents
+- N8N
+- React Native
+- GitHub
+- Ubuntu
 
-My ambitious 10-year mission is to establish **Tamil Nadu as the GenAI Hub of India**, a vision I'm actively pursuing through collaborations with engineering colleges across Tamil Nadu.
+## Explore My Crazy Learning
 
-## Publications & Open Source
-
-- Author of **"Building RESTful Web Services with Spring 5"**
-- Published **8 research papers** on Arxiv, with collaborative student efforts
-- PyPI / FOSS contributions: **Agentic Optio** (lightweight LangChain alternate), **TokSum** (GenAI token counter), **Tamil Tokenizer**
-
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/ashwin-s-214a87302/)
 - [GitHub](https://github.com/ashwinsuresh-ngr)
-- [PyPI](https://ashwinsuresh-ngr.github.io/pynotes//)
-- [Articlevil](https://articlevil.substack.com/)
-
-## Outside of Tech
-
-When I'm not shaping the future of tech education, you might find me unwinding with a John Grisham novel.
+- [Blog](https://ashwinsuresh-ngr.github.io/)
+- [PYnotes](https://ashwinsuresh-ngr.github.io/pynotes/category/basics.html)
+- [Substack](https://substack.com/@ashwin130594)
+- [Mylearning](https://ashwin.gitbook.io/mylearning)
