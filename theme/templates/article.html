@@ -19,6 +19,7 @@
 
 {% block content %}
 <article class="single">
+  <a class="back-btn" href="javascript:history.back()">← Back</a>
   <header>
     {% if not ARTICLE_HIDE_TRANSLATION %}
       {% import 'partial/translations.html' as translations with context %}
