@@ -142,8 +142,40 @@ main .neighbors {
   height: 20px;
 }
 main .pagination {
-  margin: 4% 8% 4% 8%;
-  height: 20px;
+  margin: 3em 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4em;
+  flex-wrap: wrap;
+}
+main .pagination .page-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 38px;
+  height: 38px;
+  padding: 0 0.6em;
+  border-radius: 8px;
+  font-size: 0.9em;
+  font-weight: 500;
+  color: #374151;
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+main .pagination .page-link:hover {
+  background: #eff6ff;
+  border-color: #2563eb;
+  color: #2563eb;
+}
+main .pagination .page-link.current {
+  background: #2563eb;
+  color: #ffffff;
+  border-color: #2563eb;
+  font-weight: 700;
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
 }
 main .social-share p {
   font-size: 0.8em;
