@@ -4,7 +4,7 @@ Category: DevOps
 Tags: azure, virtual-machines, linux, troubleshooting, rag, devops
 Summary: A real troubleshooting story about an Azure VM hosting a RAG application. From a full disk to CPU saturation, memory thrashing, and a silently discarded search index, here's what each problem taught me about how virtual machines behave under pressure.
 
-![Azure VM troubleshooting](../image/README/az-vms1-97502296.png)
+![Azure VM troubleshooting]({static}/images/az-vms1-97502296.png)
 
 This week I ran into a string of problems on an Azure VM hosting a RAG (Retrieval-Augmented Generation) application, and fixing them taught me more about how virtual machines actually behave under pressure than any tutorial would have. Here's what happened, explained from the basics up, in case it saves someone else the same few hours of confusion.
 
